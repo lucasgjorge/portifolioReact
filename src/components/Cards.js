@@ -16,8 +16,8 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              src='images/img-1.jpg'
+              text='Jordan low mocha'
               label='Luxury'
               path='/services'
             />
@@ -25,19 +25,19 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              text='ZS do Rio de Janeiro'
+              label='Sunset'
               path='/services'
             />
             <CardItem
               src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Nike dunk Grey'
               label='Adventure'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              src='images/img-home.jpg'
+              text='Surf nas marolas do canto'
               label='Adrenaline'
               path='/sign-up'
             />
